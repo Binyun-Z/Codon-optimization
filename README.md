@@ -8,7 +8,7 @@ The software is in a specific host chassis proteins perform codon optimization
 python GD.py -p protein.fasta -n 10
 ```
 ## 参数说明：
-`-p` : 要执行密码子优化的蛋白质氨基酸序列的fasta文件位置，默认为`test.fasta` ,可以指定该文件所在的位置，例如`./input/test.fasta`
+`-p` : 要执行密码子优化的蛋白质氨基酸序列的fasta文件位置，默认为`test.fasta` ,可以指定该文件所在的位置，例如`./input/test.fasta`  
 `-n` : 需要生成的不同基因序列数量
 
 ## 结果说明
