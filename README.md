@@ -1,7 +1,7 @@
 # Codon-optimization
 The software is in a specific host chassis proteins perform codon optimization  
 该程序参考论文：[Rational design and construction of multi-copy biomanufacturing islands in mammalian cells](https://doi.org/10.1093/nar/gkab1214)，在其提供的源代码基础上提供了一个python3版本的程序  
-该软件为以特定宿主底盘的蛋白质生成指定数量的核酸序列，使其差异足够大，避免同源重组，同时适配特定的宿主
+该软件为以特定宿主底盘的蛋白质生成指定数量的核酸序列，使其差异足够大，避免同源重组，同时适配特定的宿主  
 密码子使用表可从[此处](http://www.kazusa.or.jp/codon/)或者[金斯瑞官网](https://www.genscript.com/tools/codon-frequency-table)获得
 ## 使用方法：
 ```shell
